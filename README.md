@@ -46,3 +46,5 @@ let hasVote = await dbl.hasVoted("714451348212678658"); // -> User ID
 let botFind = await dbl.search("779641401482805289");
 console.log(botFind.username) // -> Allegro
 ```
+
+# CREDITS : bhbotlist.tech
